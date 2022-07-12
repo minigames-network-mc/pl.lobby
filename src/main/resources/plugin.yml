@@ -1,0 +1,5 @@
+name: Lobby
+version: '${project.version}'
+main: network.lobby.Lobby
+api-version: 1.19
+authors: [ DelxHQ ]
